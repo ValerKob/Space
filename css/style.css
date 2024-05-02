@@ -950,6 +950,7 @@ a:focus {
   height: 3em;
   line-height: 3em;
   padding: 0 1em;
+  transition: .3s ease-in-out;
 }
 
 .button2 {
@@ -969,6 +970,7 @@ a:focus {
   height: 3em;
   line-height: 3em;
   padding: 0 1em;
+  transition: .3s ease-in-out;
 }
 
 .button3 {
@@ -988,6 +990,7 @@ a:focus {
   height: 3em;
   line-height: 3em;
   padding: 0 1em;
+  transition: .3s ease-in-out;
 }
 
 .button4 {
@@ -1007,10 +1010,22 @@ a:focus {
   height: 3em;
   line-height: 3em;
   padding: 0 1em;
+  transition: .3s ease-in-out;
 }
 .button:hover {
   background-color: #17ac4e;
 }
+
+.button2:hover {
+  background-color: #17ac4e;
+}
+.button3:hover {
+  background-color: #17ac4e;
+}
+.button4:hover {
+  background-color: #17ac4e;
+}
+
 .details-modal {
   background: #ffffff;
   border-radius: 0.5em;
