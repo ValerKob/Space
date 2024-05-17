@@ -86,7 +86,7 @@ a:focus {
 /*header section*/
 .hero_area {
   position: relative;
-  min-height: 100vh;
+  min-height: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -263,7 +263,7 @@ a:focus {
   -ms-flex-align: center;
   align-items: center;
   position: relative;
-  padding: 45px 0 145px 0;
+  padding: 45px 0 100px 0;
 }
 
 .slider_section .row {
